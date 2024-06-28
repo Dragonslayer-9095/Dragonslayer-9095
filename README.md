@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Dragonslayer-9095
-- 👀 I’m interested in feet
-- 🌱 I’m currently learning how to beat autism
-- 💞️ I’m looking to collaborate on sex
-- 📫 How to reach me DONT
+- 🌱 I’m currently learning C and the fundamentals of programming
+- 💞️ I’m looking to collaborate on python based projects
+- 📫 How to reach - Right here
 - 😄 Pronouns: The/One
-- ⚡ Fun fact: I am not gay
 
 <!---
 Dragonslayer-9095/Dragonslayer-9095 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
